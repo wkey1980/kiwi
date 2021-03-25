@@ -52,7 +52,6 @@ if ( ! function_exists( 'kiwi_setup' ) ):
         );
 
                 // Custom header, custom background, custom logo
-                // FIXME: Error with the $header_width & $header_height
                 $header_width  = 100;
                 $header_height  = 100;
                 add_theme_support(
@@ -78,7 +77,6 @@ if ( ! function_exists( 'kiwi_setup' ) ):
                         )
                     )
                 );
-                // FIXME: Error with the $logo_width & $logo_height
                 $logo_width = 50;
                 $logo_height = 50;
                 add_theme_support(
