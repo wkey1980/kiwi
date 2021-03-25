@@ -1,0 +1,1 @@
+Folder to hold WordPress website translations into different languages.
