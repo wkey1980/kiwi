@@ -101,3 +101,4 @@ function kiwi_content_width() {
 }
 add_action( 'after_setup_theme', 'kiwi_content_width', 0 );
 
+require KIWI_THEME_DIR . './inc/widgets/widgets.php';
