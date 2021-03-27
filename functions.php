@@ -103,3 +103,6 @@ add_action( 'after_setup_theme', 'kiwi_content_width', 0 );
 
 require KIWI_THEME_DIR . './inc/widgets/widgets.php';
 require KIWI_THEME_DIR . './inc/menus/menus.php';
+
+require KIWI_THEME_DIR . './inc/enqueue/enqueue-styles.php';
+require KIWI_THEME_DIR . './inc/enqueue/enqueue-scripts.php';
