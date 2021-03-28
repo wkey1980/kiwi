@@ -1,2 +1,2 @@
 // Theme JavaScript File
-alert( 'Hello World!' );
+// alert( 'Hello World!' );

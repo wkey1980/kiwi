@@ -9,11 +9,11 @@
 ?>
 
 
-        </main><!-- end #content -->
+            </main><!-- end #content -->
 
-        <footer id="colophon" class="site-footer">
+            <footer id="colophon" class="site-footer">
 
-        </footer><!-- /#colophon -->
+            </footer><!-- /#colophon -->
 
         <div id="page" class="site"><!-- /#page -->
 
