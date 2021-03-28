@@ -1,4 +1,13 @@
 <?php
+/**
+ * Template to display packageTitle
+ * 
+ * packageDescription
+ * 
+ * @package kiwi
+ */
+?>
+<?php
 function kiwi_setup_styles() {
 
     $kiwi_setup_style_ver = filemtime( get_template_directory() . '/assets/dist/css/main.css' );
